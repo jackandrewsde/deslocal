@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<asset_composite name="des.evs.KeyValuePair_13d63059fa2028fa.eventtype.composite" displayName="des.evs.KeyValuePair_13d63059fa2028fa.eventtype.composite" targetNamespace="http://namespaces.softwareag.com/webMethods/EDA" xmlns="http://namespaces.softwareag.com/acdl/1.0" xmlns:EDA="http://namespaces.softwareag.com/webMethods/EDA" xmlns:MWS="http://namespaces.softwareag.com/webMethods/MWS" xmlns:IS="http://namespaces.softwareag.com/webMethods/IS" xmlns:APIPORTAL="http://namespaces.softwareag.com/webMethods/APIPORTAL" xmlns:AgileApps="http://namespaces.softwareag.com/webMethods/AgileApps" xmlns:BROKER="http://namespaces.softwareag.com/webMethods/BROKER" xmlns:implDetails="http://namespaces.softwareag.com/acdl/implDetails" xmlns:UniversalMessaging="http://namespaces.softwareag.com/webMethods/UniversalMessaging" xmlns:TN="http://namespaces.softwareag.com/webMethods/TN" xmlns:RULES="http://namespaces.softwareag.com/webMethods/RULES" xmlns:BPM="http://namespaces.softwareag.com/webMethods/BPM" xmlns:Optimize="http://namespaces.softwareag.com/webMethods/Optimize">
-    <asset name="XSD.des.evs.KeyValuePair_13d63059fa2028fa.eventtype" displayName="des.evs.KeyValuePair_13d63059fa2028fa.eventtype" isDeployable="true">
-        <property name="repository.location" many="false" isSecure="false" displayName="repository.location">
-            <value>eventtypes\des\evs\KeyValuePair_13d63059fa2028fa.dx</value>
-        </property>
-    </asset>
-</asset_composite>

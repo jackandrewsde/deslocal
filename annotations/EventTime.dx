@@ -1,5 +1,0 @@
-EventTime : annotation
-flags (eventApplicable)
-{
-  path : string;
-}

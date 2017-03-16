@@ -1,5 +1,0 @@
-EventId : annotation
-flags (eventApplicable)
-{
-  path : string;
-}
