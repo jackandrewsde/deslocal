@@ -5,9 +5,4 @@
             <value>des\evs\EventPersistenceError_e8b645a620286a38.dx</value>
         </property>
     </asset>
-    <asset name="XSD.des.evs.EventPersistenceError.eventtypeinfo" displayName="des.evs.EventPersistenceError.eventtypeinfo" isDeployable="true">
-        <property name="repository.location" many="false" isSecure="false" displayName="repository.location">
-            <value>des\evs\EventPersistenceError_e8b645a620286a38.dx</value>
-        </property>
-    </asset>
 </asset_composite>
