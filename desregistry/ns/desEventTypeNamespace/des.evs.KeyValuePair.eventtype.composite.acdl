@@ -5,9 +5,4 @@
             <value>des\evs\KeyValuePair_13d63059fa2028fa.dx</value>
         </property>
     </asset>
-    <asset name="XSD.des.evs.KeyValuePair.eventtypeinfo" displayName="des.evs.KeyValuePair.eventtypeinfo" isDeployable="true">
-        <property name="repository.location" many="false" isSecure="false" displayName="repository.location">
-            <value>des\evs\KeyValuePair_13d63059fa2028fa.dx</value>
-        </property>
-    </asset>
 </asset_composite>
