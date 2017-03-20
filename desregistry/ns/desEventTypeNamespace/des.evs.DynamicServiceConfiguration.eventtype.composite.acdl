@@ -5,9 +5,4 @@
             <value>des\evs\DynamicServiceConfiguration_482832d387209c68.dx</value>
         </property>
     </asset>
-    <asset name="XSD.des.evs.DynamicServiceConfiguration.eventtypeinfo" displayName="des.evs.DynamicServiceConfiguration.eventtypeinfo" isDeployable="true">
-        <property name="repository.location" many="false" isSecure="false" displayName="repository.location">
-            <value>des\evs\DynamicServiceConfiguration_482832d387209c68.dx</value>
-        </property>
-    </asset>
 </asset_composite>
