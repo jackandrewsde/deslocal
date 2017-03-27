@@ -2,7 +2,7 @@
 <asset_composite name="des.evs.DynamicServiceConfiguration.eventtypeinfo.composite" displayName="des.evs.DynamicServiceConfiguration.eventtypeinfo.composite" targetNamespace="http://namespaces.softwareag.com/webMethods/EDA" xmlns="http://namespaces.softwareag.com/acdl/1.0" xmlns:EDA="http://namespaces.softwareag.com/webMethods/EDA" xmlns:MWS="http://namespaces.softwareag.com/webMethods/MWS" xmlns:IS="http://namespaces.softwareag.com/webMethods/IS" xmlns:APIPORTAL="http://namespaces.softwareag.com/webMethods/APIPORTAL" xmlns:AgileApps="http://namespaces.softwareag.com/webMethods/AgileApps" xmlns:BROKER="http://namespaces.softwareag.com/webMethods/BROKER" xmlns:implDetails="http://namespaces.softwareag.com/acdl/implDetails" xmlns:UniversalMessaging="http://namespaces.softwareag.com/webMethods/UniversalMessaging" xmlns:TN="http://namespaces.softwareag.com/webMethods/TN" xmlns:RULES="http://namespaces.softwareag.com/webMethods/RULES" xmlns:BPM="http://namespaces.softwareag.com/webMethods/BPM" xmlns:Optimize="http://namespaces.softwareag.com/webMethods/Optimize">
     <asset name="XSD.des.evs.DynamicServiceConfiguration.eventtypeinfo" displayName="des.evs.DynamicServiceConfiguration.eventtypeinfo" isDeployable="true">
         <property name="repository.location" many="false" isSecure="false" displayName="repository.location">
-            <value>des\evs\DynamicServiceConfiguration_fac3c11b79b30a8e.json</value>
+            <value>eventtypes\des\evs\DynamicServiceConfiguration_fac3c11b79b30a8e.json</value>
         </property>
     </asset>
 </asset_composite>
